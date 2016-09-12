@@ -1,4 +1,4 @@
-#IP_Caculator
+#IP_Calculator
 <p><strong>Author:</strong> KvasirSG</p>
 <p><strong>Version:</strong> 1.0.7</p>
 <p><strong>License:</strong></p>
